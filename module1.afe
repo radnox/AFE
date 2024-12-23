@@ -1,0 +1,4 @@
+// --- Workbook module ---
+// A file of name definitions of the form:
+//    name = definition;
+AmountWithTax=LAMBDA(amount, amount * (1 + 0.08875));
